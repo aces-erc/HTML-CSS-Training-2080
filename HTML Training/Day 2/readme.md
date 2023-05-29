@@ -1,4 +1,4 @@
-##Day 2: Introduction to CSS
+## Day 2: Introduction to CSS
 
     -Overview of CSS
     - CSS syntax and selectors
