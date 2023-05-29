@@ -1,2 +1,3 @@
-# HTML-CSS-Training-Archive
-Past training files can be found here.
+# HTML-CSS-Training-Archive.
+
+You can find syllabus and exercise for each day's training inside the HTML Training folder.
