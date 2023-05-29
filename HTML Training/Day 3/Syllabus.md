@@ -1,4 +1,4 @@
-##Day 3: CSS Layout and Positioning
+## Day 3: CSS Layout and Positioning
 
 - Introduction to CSS layout
 - Understanding the document flow
