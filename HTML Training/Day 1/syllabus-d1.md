@@ -1,0 +1,94 @@
+### Day 1 - HTML Introduction and Editor Setup
+- HTML Introduction
+- Basic Anatomy of HTML (PDF Presentation)
+    - DOCTYPE Declaration
+    - HTML Tags Structure
+        - Opening and Closing Tags
+        - Self Closing Tags
+    - Head Section
+        - Meta charset information (utf-8 encoding)
+        - Page Title
+    - Body Section
+- Editor Setup
+    - VSCode Installation
+    - Creating a Project Folder and opening in VSCode
+    - Installing ***HTML CSS Support*** Extension
+    - Auto rename/Auto complete
+    - Creating index.html file
+- HTML Code Structure
+    - Manually typing the boilerplate code
+        - DOCTYPE declaration
+        - ***\<head>*** section
+        - meta charset utf-8 encoding
+        - ***\<body>*** section
+    - Using Emmet Abbreviation in VSCode
+    - Viewing the Output in a Browser
+- HTML Comments
+    - Introduction
+    - Single Line Comments
+    - Multi Line Comments
+- Basic HTML Tags
+    - Headings h1 to h6
+    - \<p> tag
+    - Line Break \<br />
+    - span tag <span>
+
+- HTML Lists
+    - Unordered Lists ***\<ul>***
+    - List Items ***\<li>***
+    - Ordered Lists ***\<ol>***
+- HTML Attributes
+    - Brief Introduction
+    - id and class attribute and their usage
+- HTML Links
+    - Anchor \<a> tag
+    - *href* attribute
+    - Paths
+        - Absolute Path
+        - Relative Path
+            - same directory
+            - parent directory
+            - relative *#id* path
+        
+    - *target* attribute
+        - _self as default attribute value
+        - _blank for new page
+- HTML Media
+    - HTML Image 
+        - \<img> tag
+        - *src* attribute
+        - *width* and *height* attribute
+        - *alt* text and its importance
+    - HTML Favicon
+   
+- HTML Table
+    - \<table> tag
+    - rows and columns
+        - \<tr> tag
+        - \<td> tag (cell as a column)
+    - Table heading \<th> tag
+    - *rowspan* and *colspan*
+    - Grouping with \<thead> \<tbody> and \<tfoot>
+- HTML Forms
+    - The \<form> tag
+    - Form Attributes
+        - *action* , *target* and *method*
+        - GET vs POST
+    - \<input> tag
+        - *text*, *radio*, *checkbox*
+        - *email*, *password*, *date* , *week*, *color*
+        - *button*, *submit*
+    - \<label> tag
+    - \<select> tag
+        - default *selected* attribute in option
+        - \<textarea>
+        - \<button>
+        - \<datalist>
+    - HTML Input Attributes
+        - value
+	  - name
+        - disabled
+        - size
+        - placeholder
+        - required
+        - height and width

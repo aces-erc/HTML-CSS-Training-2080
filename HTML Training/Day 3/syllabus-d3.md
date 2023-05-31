@@ -1,0 +1,59 @@
+### Day 3 - CSS FlexBox ,Grid And Responsiveness, CSS Pseudo Elements, Pseudo Class and Animations
+- FlexBox
+    - Display Flex
+    - Flex-Direction (Row & Column)
+    - Flex-Wrap
+    - justify-content
+    - align-items
+    - align-self
+    - order
+    - flex-grow & flex-shrink
+    - flex-basis
+- CSS Grid
+    - Introduction to Grid
+        - columns
+        - rows
+        - gaps
+    - Using FireFox for Grid
+    - Spanning Columns & Rows
+    - Grid Gaps
+    - Sizing with Min-Max
+    - Auto-fit VS Auto-fill
+    - Max-content & Min-content
+- CSS Responsive
+    - Introduction to Responsiveness
+    - Responsive Grid View
+    - Media Queries
+    - And Operator
+    - Max-Width & Min-Width
+ -CSS Pseudo Elements, Pseudo Class and Animations
+- Pseudo-Elements
+    - before / after
+    - selection
+- Pseudo-Class
+    - Location pseudo-classes
+        - link
+        - visited
+    - User Action Pseudo-Classes
+        - hover
+        - active
+        - focus-within
+    - Tree-structural Pseudo-Classes
+        - first-child
+        - last-child
+        - not
+        - nth-child
+- CSS-Transformation
+    - scale
+    - translate
+    - rotate
+    - reflection    
+- CSS-Animation
+    - Introduction to keyframes
+    - Configuring the Animation        
+        - animation-name
+        - animation-duration
+        - animation-timing-function
+        - animation-delay
+        - animation-iteration-count
+        - animation-direction
