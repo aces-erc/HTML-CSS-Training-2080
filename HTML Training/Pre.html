@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web-Workshop</title>
+    <style>
+        *{
+            background-color: crimson;
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            cursor: pointer;
+        }
+        p{
+            font-size: 22px;
+            transform: translateX(-1100px);
+            transition-duration: 3s;
+            
+        }
+        ul{
+            transform: translateY(-300px);
+            transition-duration: 10s;
+            transition-delay: 3s;
+        }
+        h1:hover~p,h1:hover~ul{
+          transform: translateY(0px);
+        }
+    </style>
+
+  </head>
+  <body>
+    <h1>-----Pre-requisites-----</h1>
+
+    <p>Before starting, You should have :</p>
+    <p>1. Any Text Editor (vs code - recommended)</p>
+    <p class="vscd">
+      2. if you are in vs code, following extensions should be</p>
+      <p> installed for
+      your better experiences but not mandatory.
+    </p>
+    <ul>
+      <li>Prettier - Code formatter</li>
+      <li>Live Server</li>
+      <li>Auto complete</li>
+      <li>Auto rename</li>
+      <li>Material theme</li>
+      <li>Intend rainbow</li>
+    </ul>
+  </body>
+</html>
